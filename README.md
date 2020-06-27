@@ -1,3 +1,8 @@
+--GO AWAY!
+--GO AWAY!
+--GO AWAY!
+--GO AWAY!
+--GO AWAY!
 local msg = Instance.new("Message", player.PlayerGui)
 msg.Text = "CREDITS LOADED"
 wait(1.5)
@@ -138,3 +143,8 @@ local msg = Instance.new("Message", player.PlayerGui)
 msg.Text = "The True End"
 wait(5)
 msg:Destroy()
+--GO AWAY!
+--GO AWAY!
+--GO AWAY!
+--GO AWAY!
+--GO AWAY!
